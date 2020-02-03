@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab-1</string>
+
+    <string-array name="question_array">
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"9"</item>
+        <item>"10"</item>
+    </string-array>
+
+</resources>
